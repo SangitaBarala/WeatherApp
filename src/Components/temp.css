@@ -1,0 +1,32 @@
+.container{
+    background-color: #8dd0ef;
+    height: auto;
+    width: 400px;
+    margin: auto;
+    margin-top: 40px;
+    border: 2px solid black;
+    align-items: center;
+}
+.logo{
+    height:90px;
+    width: 150px;
+    margin: 5px;
+}
+.search{
+    padding: 10px;
+    border-radius: 10px;
+    outline: aqua;
+}
+.align{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.rainbow{
+    height: 60px;
+    width: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
